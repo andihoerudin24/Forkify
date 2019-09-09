@@ -1,9 +1,9 @@
 # Forkify
 
-how to install the application
-  -clone or download file
-  -enter the project folder via the terminal
-  -npm install
+how to install the application <br>
+  -clone or download file <p>
+  -enter the project folder via the terminal <p>
+  -npm install <p>
   -npm run start
   
 
